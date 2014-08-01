@@ -1,2 +1,2 @@
-Algorithm.go
+algorithms.go
 ============
