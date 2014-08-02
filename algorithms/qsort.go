@@ -1,4 +1,5 @@
 package algorithms
+
 //import "fmt"
 type Ord interface {
     Swap(i, j int)  
