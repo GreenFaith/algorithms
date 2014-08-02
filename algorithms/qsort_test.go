@@ -47,7 +47,7 @@ func TestIntArray(t *testing.T){
 }
 
 func TestStrArray(t *testing.T){
-    x := strArray {"c","d","a","b"}
+    x := strArray {"cd","de","ab","bc"}
     QuickSort(x,0, x.Len()-1)
     t.Log(x)
 }
