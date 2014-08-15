@@ -1,7 +1,7 @@
 algorithms
 ============
 
-###[Document](https://github.com/GreenFaith/algorithms.go/wiki)
+###[Wiki](https://github.com/GreenFaith/algorithms.go/wiki)
 
 ## DESCRIPTION:
 
