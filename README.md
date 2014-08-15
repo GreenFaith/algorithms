@@ -1,4 +1,4 @@
-algorithms.go
+algorithms
 ============
 
 ###[Document](https://github.com/GreenFaith/algorithms.go/wiki)
