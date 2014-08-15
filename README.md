@@ -5,7 +5,7 @@ algorithms.go
 
 ## DESCRIPTION:
 
-This repo is a `algorithms and data structure` lib for go.   
+This repo is all about `algorithms and data structure` .   
    
 Feel free to fork or make any contribution.
    
